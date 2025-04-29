@@ -39,7 +39,7 @@ const Header = () => {
             <button onClick={toggleSideBar} className="focus:outline-none">
               <Menu className="h-6 w-6" />
             </button>
-            <Link to="/" className="text-2xl font-bold">CloudMart</Link>
+            <Link to="/" className="text-2xl font-bold">VendoMacetas.Com</Link>
           </div>
           <div className="flex items-center space-x-4">
             <Link to="/profile" className="flex items-center cursor-pointer">
