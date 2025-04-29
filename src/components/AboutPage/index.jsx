@@ -7,11 +7,11 @@ const AboutPage = () => {
     <div className="min-h-screen bg-gray-100 flex flex-col">
       <Header showSearch={false} />
       <main className="container mx-auto py-8 flex-grow">
-        <h1 className="text-3xl font-bold mb-6">About CloudMart</h1>
+        <h1 className="text-3xl font-bold mb-6">About VendoMacetas.com</h1>
         <div className="bg-white rounded-lg shadow-md p-6">
           <h2 className="text-2xl font-semibold mb-4">Our Project</h2>
           <p className="mb-4">
-            CloudMart is an innovative e-commerce platform developed as part of an intensive cloud computing and artificial intelligence training program by The Cloud Bootcamp. This project serves as a comprehensive learning experience, combining cutting-edge technologies to create a modern, AI-powered online shopping solution.
+            ClVendoMacetas nacio del proyecto de una persona que en busca de su propia innovaccion financiera decidio crear este hermoso sitio, un pelao serio y capaz.. y bacan
           </p>
           <h2 className="text-2xl font-semibold mb-4">Key Features</h2>
           <ul className="list-disc list-inside mb-4">
